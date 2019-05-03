@@ -1,0 +1,15 @@
+SQL:
+MySQL
+root password: mmstar
+
+NoSQL:
+MongoDB
+login: frace@ukr.net
+MM Star
+password: @4ebyrawka
+
+Project0 -> Cluster0
+user: mmstar
+password: 4ebyrawka
+
+mongodb+srv://mmstar:4ebyrawka@cluster0-annvu.mongodb.net/admin

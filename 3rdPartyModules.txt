@@ -1,0 +1,86 @@
+> npm init
+> npm install nodemon --save-dev
+> npm install express --save
+
+// for parser registering
+> npm install body-parser --save
+
+// for Templating Engines
+> npm install --save ejs pug express-handlebars
+
+// to operate with SQL Database need to install another package:
+> npm install --save mysql2
+
+// Sequelize (SQL ORM) needs mysql2 package to work
+// An Object-Relational Mapping Library (ORM library)
+> npm install --save sequelize
+
+// mongoDB driver install
+> npm install --save mongodb
+
+// mongoose (MongoDB ODM)
+> npm install --save mongoose
+
+// to use sessions 3rd party package 'express-session' is needed.
+> npm install --save express-session
+
+// let express-session package store sessions in mongoDB
+> npm install --save connect-mongodb-session
+
+// password encryption
+> npm install --save bcryptjs
+
+// CSRF attacks protection
+> npm install --save csurf
+
+// packages for e-mail sending(Mail Server: SendGrid)
+> npm install --save nodemailer nodemailer-sendgrid-transport
+
+// server validation package (express-validator)
+> npm install --save express-validator
+
+// parses incoming request for files
+> npm install --save multer
+
+// pdf files generator 
+> npm install --save pdfkit
+
+// stripe module pakcage for handling payments(through stripe servers)
+> npm install --save stripe
+
+// token generator for REST API authentication
+> npm install -- save jsonwebtoken
+
+// package for webSockets communication client-server
+// need to be installed for both backend(Node App) and frontend(React App)
+// for backend
+> npm install --save socket.io
+// for frontend
+> npm install --save socket.io-client 
+
+// for backend graphql schema definition
+> npm install --save graphql
+
+// for backend graphql handling upcoming requests
+> npm install --save express-graphql
+ 
+// validation with GraphQL
+// (validator is a package which express-validator uses behind the scenes)
+> npm install --save validator
+
+// cross platform allows to edit package.json easily
+// "start": "cross-env NODE_ENV=production MONGO_USER=mmstar MONGO_PASSWORD=4ebyrawka MONGO_DEFAULT_DATABASE=shop STRIPE_KEY=sk_test_NAuL84MEMaYfuAtFALF4njTg node app.js"
+// instead of 
+// "start": "set NODE_ENV=production && set MONGO_USER=mmstar && set MONGO_PASSWORD=4ebyrawka && set MONGO_DEFAULT_DATABASE=shop && set STRIPE_KEY=sk_test_NAuL84MEMaYfuAtFALF4njTg && node app.js"
+> npm install --save-dev cross-env
+
+// use 3rd party package node helmet for security headers
+// official docs: https://helmetjs.github.io/
+> npm install --save helmet
+
+// package for compression assets files
+// official docs: https://github.com/expressjs/compression
+> npm install --save compression
+
+// package for Logging application activity
+> npm install --save morgan

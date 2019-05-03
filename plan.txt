@@ -1,0 +1,55 @@
+Node JS course plan:
+1.  JS Refresher
+2.  NodeJS General   
+3.  How the web works
+4.  NodeJs working deep
+5.  How NodeJS Server works
+6.  File System
+7.  Data Parsing
+8.  Types of errors
+9.  NPM General 
+10. Express
+11. Express Routes Handling
+12. NodeJS and HTML
+13. Content And Templates
+14. Express Handlebars Template engine
+15. EJS Teplate engine
+16. modelViewController(MVC)
+17. enchancing Project(improve routes, controllers, views, models)
+18. Dynamic Routes & Advanced Models
+19. Storing data in Database
+20. Sequelize (ORM library)
+21. NoSQL Databases / MongoDB
+22. Mongoose (ODM library)
+23. Sessions / Cookies
+24. User Authentication
+25. Sending E-mails
+26. Advanced Authentication and Authorization
+27. Forms User Input & Validation
+28. Error Handilng
+29. Files Upload & Download
+30. Pagination
+31. Asynchronous JS Requests
+32. Payments
+33. REST APi
+34. Advanced REST API topics
+35. Async/Await
+36. Real-Time Web Services with WebSockets
+37. GraphQL (REST on steroids)
+38. Deploying Node.js applications
+39. npm & Node build up
+
+apps:
+// Classic Node App MVC
+app-06('classic' NodeJS App MVC viewsbased rendering)
+// REST API
+app-07(REST API example)
+app-08(React based app)
+// GraphQL
+app-09(Node(+Express) + GraphQL)
+app-10(React + GraphQL)
+
+
+// what to learn next
+APIs & Serverless APPs
+Frontend development (React, ...)

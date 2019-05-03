@@ -1,0 +1,8 @@
+https://sendgrid.com/
+
+mmstar
+frace@ukr.net
+4ebyrawka
+
+api_name: nodejs-shop
+api_key: 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
